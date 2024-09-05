@@ -1,8 +1,17 @@
 [![CI](https://github.com/nogibjj/Alex_Ackerman_Mini_Project_1/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Alex_Ackerman_Mini_Project_1/actions/workflows/cicd.yml)
 
-# Alex_Ackerman_Mini_Project_1
+# Python Scaffolding Template
+
+### Purpose
+The purpose of this repo is to provide a template for future projects.
+
+### Contents
 
 - requirements.txt
-- MAKEFILE
+- Makefile
 - github actions
 - devcontainer
+- Github Actions
+- Docker File
+- Main file
+- Test File
